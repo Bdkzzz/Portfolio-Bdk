@@ -1617,15 +1617,15 @@ input, select, textarea {
 	article > :last-child,
 	section:last-child,
 	article:last-child {
-		margin-bottom: 0;
+		margin-bottom: 20px;
 	}
 	.box {
 		width: 358px;
 		height: 328px;
-		display: inline-block; /* Make them side-by-side */
-		margin: 10px; /* Add spacing between boxes */
-		float: left; /* Ensure they wrap to the next line if needed */
-		box-sizing: border-box; /* Include padding and border in width/height */
+		display: inline-block;                      /* Make them side-by-side */
+		margin: 10px;                               /* Add spacing between boxes */
+		float: left;                                /* Ensure they wrap to the next line if needed */
+		box-sizing: border-box;                     /* Include padding and border in width/height */
 	  }
 	  
 
