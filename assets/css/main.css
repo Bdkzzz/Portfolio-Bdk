@@ -245,7 +245,9 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 1280px) {
+			/* changes */
+
+		/* @media screen and (max-width: 1280px) {
 
 			.container {
 				width: 960px;
@@ -255,7 +257,7 @@ input, select, textarea {
 					width: 720px;
 				}
 
-		}
+		} */
 
 		@media screen and (max-width: 980px) {
 
